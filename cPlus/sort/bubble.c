@@ -86,7 +86,7 @@ void sortByDown(int a[], int N){
 }
 
 int main(int argc, char** argv) {
-        printf("--------- V4 2020.02.13 main sort begin, num: %d-%d------------\n", gNum1,gNum2);
+        printf("--------- V2 2020.02.14 main sort begin, num: %d-%d------------\n", gNum1,gNum2);
         outArray(gArray1,gNum1);
         outArray(gArray2,gNum2);
 
