@@ -86,7 +86,7 @@ void sortByDown(int a[], int N){
 }
 
 int main(int argc, char** argv) {
-        printf("--------- V3 2020.02.14 Use sshKey main sort begin, num: %d-%d------------\n", gNum1,gNum2);
+        printf("--------- V3 2020.02.14 cloneWithGit sshKey OK! main sort begin, num: %d-%d------------\n", gNum1,gNum2);
         outArray(gArray1,gNum1);
         outArray(gArray2,gNum2);
 
